@@ -109,8 +109,7 @@ https://github.com/ArduPilot/ardupilot
 
 ## Experimental Media
 
-- Bicopter stabilization test video: [Add YouTube / Drive link]
-- Seminar presentation: [Add LinkedIn link]
+- Bicopter stabilization test video: https://drive.google.com/file/d/1bBj1Y2T7MRh-cQxQaYFkD0G30rLp4ngQ/view?usp=drivesdk
 
 ---
 
